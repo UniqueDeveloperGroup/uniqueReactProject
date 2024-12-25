@@ -11,6 +11,10 @@ function App() {
   
     <div>
       <h1> unique computer training institute</h1>
+      <header> this is header section </header>
+      <footer>
+        it is footer section 
+      </footer>
     </div>
     </>
   )
